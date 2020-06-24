@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../usbSerialExamples/libs/j2xx.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../usbSerialExamples/libs/j2xx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
